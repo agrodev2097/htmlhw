@@ -1,0 +1,42 @@
+.orange-block{
+	background-color: #fef1b6;
+	width:963px;
+	height:192px;
+	border-left:6px solid;
+	border-color:#e1c542;
+	box-sizing:border-box;
+	padding:12px;
+}
+.blue-block{
+	background-color: #dcf4ff;
+	width:963px;
+	height:192px;
+	border-left:6px solid;
+	border-color: #1e7f9d;
+	box-sizing:border-box;
+	margin: 0 0 24px;
+	padding: 12px;
+}	
+.table1{
+	max-width:42rcm;
+	max-width: 75ch;
+	border: 2px solid #00458b;
+	border-left-width:6px;
+	border-collapse:collapse;
+	margin-bottom:24px;
+	
+}
+.table{
+	display:table;
+	text-indent: initial;
+	border-spacing:2px;
+	box-sizing:border-box;
+	overflow-x:auto;
+}
+.mediacard{
+	background-color:#eee;
+	width:963px;
+	height:136px;
+	border-left:6px solid #00458b;
+	box-sizing:border-box;
+}
